@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/bin/Debug/net10.0/Partialclass
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/bin/Debug/net10.0/Partialclass.deps.json
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/bin/Debug/net10.0/Partialclass.runtimeconfig.json
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/bin/Debug/net10.0/Partialclass.dll
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/bin/Debug/net10.0/Partialclass.pdb
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/Partialclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/Partialclass.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/Partialclass.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/Partialclass.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/Partialclass.dll
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/refint/Partialclass.dll
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/Partialclass.pdb
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/Partialclass.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/dec29/Partialclass/Partialclass/obj/Debug/net10.0/ref/Partialclass.dll
