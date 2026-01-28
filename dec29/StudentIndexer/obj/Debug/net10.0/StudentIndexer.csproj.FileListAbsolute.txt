@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/bin/Debug/net10.0/StudentIndexer
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/bin/Debug/net10.0/StudentIndexer.deps.json
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/bin/Debug/net10.0/StudentIndexer.runtimeconfig.json
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/bin/Debug/net10.0/StudentIndexer.dll
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/bin/Debug/net10.0/StudentIndexer.pdb
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/StudentIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/StudentIndexer.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/StudentIndexer.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/StudentIndexer.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/StudentIndexer.dll
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/refint/StudentIndexer.dll
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/StudentIndexer.pdb
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/StudentIndexer.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/dec29/StudentIndexer/obj/Debug/net10.0/ref/StudentIndexer.dll
