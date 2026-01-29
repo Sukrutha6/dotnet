@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/jan6/bin/Debug/net10.0/jan6
+/Users/sukruthapochammala/c#/jan6/bin/Debug/net10.0/jan6.deps.json
+/Users/sukruthapochammala/c#/jan6/bin/Debug/net10.0/jan6.runtimeconfig.json
+/Users/sukruthapochammala/c#/jan6/bin/Debug/net10.0/jan6.dll
+/Users/sukruthapochammala/c#/jan6/bin/Debug/net10.0/jan6.pdb
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/jan6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/jan6.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/jan6.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/jan6.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/jan6.dll
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/refint/jan6.dll
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/jan6.pdb
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/jan6.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/jan6/obj/Debug/net10.0/ref/jan6.dll
