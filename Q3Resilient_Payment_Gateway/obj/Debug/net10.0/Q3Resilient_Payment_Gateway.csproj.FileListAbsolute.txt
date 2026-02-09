@@ -1,0 +1,14 @@
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\bin\Debug\net10.0\Q3Resilient_Payment_Gateway.exe
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\bin\Debug\net10.0\Q3Resilient_Payment_Gateway.deps.json
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\bin\Debug\net10.0\Q3Resilient_Payment_Gateway.runtimeconfig.json
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\bin\Debug\net10.0\Q3Resilient_Payment_Gateway.dll
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\bin\Debug\net10.0\Q3Resilient_Payment_Gateway.pdb
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\Q3Resilient_Payment_Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\Q3Resilient_Payment_Gateway.AssemblyInfoInputs.cache
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\Q3Resilient_Payment_Gateway.AssemblyInfo.cs
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\Q3Resilient_Payment_Gateway.csproj.CoreCompileInputs.cache
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\Q3Resilient_Payment_Gateway.dll
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\refint\Q3Resilient_Payment_Gateway.dll
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\Q3Resilient_Payment_Gateway.pdb
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\Q3Resilient_Payment_Gateway.genruntimeconfig.cache
+C:\.net\checking\dotnet\07-02\Q3Resilient_Payment_Gateway\obj\Debug\net10.0\ref\Q3Resilient_Payment_Gateway.dll
