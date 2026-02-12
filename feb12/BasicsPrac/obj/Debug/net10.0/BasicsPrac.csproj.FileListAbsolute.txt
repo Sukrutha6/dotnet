@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/BasicsPrac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/BasicsPrac.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/BasicsPrac.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/BasicsPrac.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/bin/Debug/net10.0/BasicsPrac
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/bin/Debug/net10.0/BasicsPrac.deps.json
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/bin/Debug/net10.0/BasicsPrac.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/bin/Debug/net10.0/BasicsPrac.dll
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/bin/Debug/net10.0/BasicsPrac.pdb
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/BasicsPrac.dll
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/refint/BasicsPrac.dll
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/BasicsPrac.pdb
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/BasicsPrac.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb12/BasicsPrac/obj/Debug/net10.0/ref/BasicsPrac.dll
