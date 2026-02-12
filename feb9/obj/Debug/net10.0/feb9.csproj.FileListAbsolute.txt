@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb9/bin/Debug/net10.0/feb9
+/Users/sukruthapochammala/c#/feb9/bin/Debug/net10.0/feb9.deps.json
+/Users/sukruthapochammala/c#/feb9/bin/Debug/net10.0/feb9.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb9/bin/Debug/net10.0/feb9.dll
+/Users/sukruthapochammala/c#/feb9/bin/Debug/net10.0/feb9.pdb
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/feb9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/feb9.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/feb9.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/feb9.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/feb9.dll
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/refint/feb9.dll
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/feb9.pdb
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/feb9.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb9/obj/Debug/net10.0/ref/feb9.dll
