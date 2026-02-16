@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/bin/Debug/net10.0/InheritancePrac
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/bin/Debug/net10.0/InheritancePrac.deps.json
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/bin/Debug/net10.0/InheritancePrac.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/bin/Debug/net10.0/InheritancePrac.dll
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/bin/Debug/net10.0/InheritancePrac.pdb
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/InheritancePrac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/InheritancePrac.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/InheritancePrac.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/InheritancePrac.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/InheritancePrac.dll
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/refint/InheritancePrac.dll
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/InheritancePrac.pdb
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/InheritancePrac.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb12/InheritancePrac/obj/Debug/net10.0/ref/InheritancePrac.dll

@@ -1,0 +1,14 @@
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\bin\Debug\net10.0\Q1_Concurrent_Ticket_Booking.exe
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\bin\Debug\net10.0\Q1_Concurrent_Ticket_Booking.deps.json
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\bin\Debug\net10.0\Q1_Concurrent_Ticket_Booking.runtimeconfig.json
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\bin\Debug\net10.0\Q1_Concurrent_Ticket_Booking.dll
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\bin\Debug\net10.0\Q1_Concurrent_Ticket_Booking.pdb
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\Q1_Concurrent_Ticket_Booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\Q1_Concurrent_Ticket_Booking.AssemblyInfoInputs.cache
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\Q1_Concurrent_Ticket_Booking.AssemblyInfo.cs
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\Q1_Concurrent_Ticket_Booking.csproj.CoreCompileInputs.cache
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\Q1_Concurrent_Ticket_Booking.dll
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\refint\Q1_Concurrent_Ticket_Booking.dll
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\Q1_Concurrent_Ticket_Booking.pdb
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\Q1_Concurrent_Ticket_Booking.genruntimeconfig.cache
+C:\.net\checking\dotnet\07-02\Q1_Concurrent_Ticket_Booking\obj\Debug\net10.0\ref\Q1_Concurrent_Ticket_Booking.dll

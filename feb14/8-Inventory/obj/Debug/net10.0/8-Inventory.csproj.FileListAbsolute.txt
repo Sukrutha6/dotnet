@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/8-Inventory/bin/Debug/net10.0/8-Inventory
+/Users/sukruthapochammala/c#/feb14/8-Inventory/bin/Debug/net10.0/8-Inventory.deps.json
+/Users/sukruthapochammala/c#/feb14/8-Inventory/bin/Debug/net10.0/8-Inventory.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/8-Inventory/bin/Debug/net10.0/8-Inventory.dll
+/Users/sukruthapochammala/c#/feb14/8-Inventory/bin/Debug/net10.0/8-Inventory.pdb
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/8-Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/8-Inventory.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/8-Inventory.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/8-Inventory.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/8-Inventory.dll
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/refint/8-Inventory.dll
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/8-Inventory.pdb
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/8-Inventory.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/8-Inventory/obj/Debug/net10.0/ref/8-Inventory.dll

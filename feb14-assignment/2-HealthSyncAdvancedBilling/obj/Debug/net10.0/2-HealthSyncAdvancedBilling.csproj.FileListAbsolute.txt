@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/bin/Debug/net10.0/2-HealthSyncAdvancedBilling
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/bin/Debug/net10.0/2-HealthSyncAdvancedBilling.deps.json
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/bin/Debug/net10.0/2-HealthSyncAdvancedBilling.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/bin/Debug/net10.0/2-HealthSyncAdvancedBilling.dll
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/bin/Debug/net10.0/2-HealthSyncAdvancedBilling.pdb
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/2-HealthSyncAdvancedBilling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/2-HealthSyncAdvancedBilling.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/2-HealthSyncAdvancedBilling.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/2-HealthSyncAdvancedBilling.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/2-HealthSyncAdvancedBilling.dll
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/refint/2-HealthSyncAdvancedBilling.dll
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/2-HealthSyncAdvancedBilling.pdb
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/2-HealthSyncAdvancedBilling.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14-assignment/2-HealthSyncAdvancedBilling/obj/Debug/net10.0/ref/2-HealthSyncAdvancedBilling.dll

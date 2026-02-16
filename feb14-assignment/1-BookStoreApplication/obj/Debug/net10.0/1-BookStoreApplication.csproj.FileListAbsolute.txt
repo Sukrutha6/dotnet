@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/bin/Debug/net10.0/1-BookStoreApplication
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/bin/Debug/net10.0/1-BookStoreApplication.deps.json
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/bin/Debug/net10.0/1-BookStoreApplication.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/bin/Debug/net10.0/1-BookStoreApplication.dll
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/bin/Debug/net10.0/1-BookStoreApplication.pdb
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/1-BookStoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/1-BookStoreApplication.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/1-BookStoreApplication.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/1-BookStoreApplication.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/1-BookStoreApplication.dll
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/refint/1-BookStoreApplication.dll
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/1-BookStoreApplication.pdb
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/1-BookStoreApplication.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14-assignment/1-BookStoreApplication/obj/Debug/net10.0/ref/1-BookStoreApplication.dll

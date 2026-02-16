@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/bin/Debug/net10.0/3-LeaderBoardTopKScores
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/bin/Debug/net10.0/3-LeaderBoardTopKScores.deps.json
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/bin/Debug/net10.0/3-LeaderBoardTopKScores.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/bin/Debug/net10.0/3-LeaderBoardTopKScores.dll
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/bin/Debug/net10.0/3-LeaderBoardTopKScores.pdb
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/3-LeaderBoardTopKScores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/3-LeaderBoardTopKScores.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/3-LeaderBoardTopKScores.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/3-LeaderBoardTopKScores.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/3-LeaderBoardTopKScores.dll
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/refint/3-LeaderBoardTopKScores.dll
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/3-LeaderBoardTopKScores.pdb
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/3-LeaderBoardTopKScores.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/3-LeaderBoardTopKScores/obj/Debug/net10.0/ref/3-LeaderBoardTopKScores.dll

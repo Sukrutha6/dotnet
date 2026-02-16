@@ -1,0 +1,11 @@
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/bin/Debug/net10.0/CalculatorApp.Core.deps.json
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/bin/Debug/net10.0/CalculatorApp.Core.dll
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/bin/Debug/net10.0/CalculatorApp.Core.pdb
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/CalculatorApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/CalculatorApp.Core.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/CalculatorApp.Core.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/CalculatorApp.Core.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/CalculatorApp.Core.dll
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/refint/CalculatorApp.Core.dll
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/CalculatorApp.Core.pdb
+/Users/sukruthapochammala/c#/Calculator/CalculatorApp/CalculatorApp.Core/obj/Debug/net10.0/ref/CalculatorApp.Core.dll

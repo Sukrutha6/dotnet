@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/Day4/bin/Debug/net10.0/Day4
+/Users/sukruthapochammala/c#/Day4/bin/Debug/net10.0/Day4.deps.json
+/Users/sukruthapochammala/c#/Day4/bin/Debug/net10.0/Day4.runtimeconfig.json
+/Users/sukruthapochammala/c#/Day4/bin/Debug/net10.0/Day4.dll
+/Users/sukruthapochammala/c#/Day4/bin/Debug/net10.0/Day4.pdb
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/Day4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/Day4.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/Day4.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/Day4.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/Day4.dll
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/refint/Day4.dll
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/Day4.pdb
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/Day4.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/Day4/obj/Debug/net10.0/ref/Day4.dll

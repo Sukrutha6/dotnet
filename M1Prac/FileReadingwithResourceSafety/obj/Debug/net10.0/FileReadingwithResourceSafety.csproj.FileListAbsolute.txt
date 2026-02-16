@@ -1,0 +1,4 @@
+/Users/sukruthapochammala/c#/M1Prac/FileReadingwithResourceSafety/obj/Debug/net10.0/FileReadingwithResourceSafety.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/M1Prac/FileReadingwithResourceSafety/obj/Debug/net10.0/FileReadingwithResourceSafety.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/M1Prac/FileReadingwithResourceSafety/obj/Debug/net10.0/FileReadingwithResourceSafety.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/M1Prac/FileReadingwithResourceSafety/obj/Debug/net10.0/FileReadingwithResourceSafety.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/bin/Debug/net10.0/2-AttendanceFirstUniqueEntry
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/bin/Debug/net10.0/2-AttendanceFirstUniqueEntry.deps.json
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/bin/Debug/net10.0/2-AttendanceFirstUniqueEntry.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/bin/Debug/net10.0/2-AttendanceFirstUniqueEntry.dll
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/bin/Debug/net10.0/2-AttendanceFirstUniqueEntry.pdb
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/2-AttendanceFirstUniqueEntry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/2-AttendanceFirstUniqueEntry.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/2-AttendanceFirstUniqueEntry.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/2-AttendanceFirstUniqueEntry.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/2-AttendanceFirstUniqueEntry.dll
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/refint/2-AttendanceFirstUniqueEntry.dll
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/2-AttendanceFirstUniqueEntry.pdb
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/2-AttendanceFirstUniqueEntry.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/2-AttendanceFirstUniqueEntry/obj/Debug/net10.0/ref/2-AttendanceFirstUniqueEntry.dll

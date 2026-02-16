@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/bin/Debug/net10.0/FinancialTradingPlatform
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/bin/Debug/net10.0/FinancialTradingPlatform.deps.json
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/bin/Debug/net10.0/FinancialTradingPlatform.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/bin/Debug/net10.0/FinancialTradingPlatform.dll
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/bin/Debug/net10.0/FinancialTradingPlatform.pdb
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/FinancialTradingPlatform.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/FinancialTradingPlatform.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/FinancialTradingPlatform.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/FinancialTradingPlatform.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/FinancialTradingPlatform.dll
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/refint/FinancialTradingPlatform.dll
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/FinancialTradingPlatform.pdb
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/FinancialTradingPlatform.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb11/FinancialTradingPlatform/obj/Debug/net10.0/ref/FinancialTradingPlatform.dll

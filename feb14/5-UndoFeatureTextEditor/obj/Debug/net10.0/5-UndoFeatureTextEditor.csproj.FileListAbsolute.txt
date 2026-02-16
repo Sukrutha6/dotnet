@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/bin/Debug/net10.0/5-UndoFeatureTextEditor
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/bin/Debug/net10.0/5-UndoFeatureTextEditor.deps.json
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/bin/Debug/net10.0/5-UndoFeatureTextEditor.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/bin/Debug/net10.0/5-UndoFeatureTextEditor.dll
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/bin/Debug/net10.0/5-UndoFeatureTextEditor.pdb
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/5-UndoFeatureTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/5-UndoFeatureTextEditor.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/5-UndoFeatureTextEditor.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/5-UndoFeatureTextEditor.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/5-UndoFeatureTextEditor.dll
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/refint/5-UndoFeatureTextEditor.dll
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/5-UndoFeatureTextEditor.pdb
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/5-UndoFeatureTextEditor.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/5-UndoFeatureTextEditor/obj/Debug/net10.0/ref/5-UndoFeatureTextEditor.dll

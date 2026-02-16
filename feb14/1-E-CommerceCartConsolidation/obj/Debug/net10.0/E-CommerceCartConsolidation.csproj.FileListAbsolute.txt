@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/bin/Debug/net10.0/E-CommerceCartConsolidation
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/bin/Debug/net10.0/E-CommerceCartConsolidation.deps.json
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/bin/Debug/net10.0/E-CommerceCartConsolidation.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/bin/Debug/net10.0/E-CommerceCartConsolidation.dll
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/bin/Debug/net10.0/E-CommerceCartConsolidation.pdb
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/E-CommerceCartConsolidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/E-CommerceCartConsolidation.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/E-CommerceCartConsolidation.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/E-CommerceCartConsolidation.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/E-CommerceCartConsolidation.dll
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/refint/E-CommerceCartConsolidation.dll
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/E-CommerceCartConsolidation.pdb
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/E-CommerceCartConsolidation.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/E-CommerceCartConsolidation/obj/Debug/net10.0/ref/E-CommerceCartConsolidation.dll

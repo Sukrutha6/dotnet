@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/bin/Debug/net10.0/7-BankStatement
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/bin/Debug/net10.0/7-BankStatement.deps.json
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/bin/Debug/net10.0/7-BankStatement.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/bin/Debug/net10.0/7-BankStatement.dll
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/bin/Debug/net10.0/7-BankStatement.pdb
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/7-BankStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/7-BankStatement.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/7-BankStatement.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/7-BankStatement.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/7-BankStatement.dll
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/refint/7-BankStatement.dll
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/7-BankStatement.pdb
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/7-BankStatement.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/7-BankStatement/obj/Debug/net10.0/ref/7-BankStatement.dll

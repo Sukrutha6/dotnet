@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/bin/Debug/net10.0/BankingWithdrawalValidation
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/bin/Debug/net10.0/BankingWithdrawalValidation.deps.json
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/bin/Debug/net10.0/BankingWithdrawalValidation.runtimeconfig.json
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/bin/Debug/net10.0/BankingWithdrawalValidation.dll
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/bin/Debug/net10.0/BankingWithdrawalValidation.pdb
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/BankingWithdrawalValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/BankingWithdrawalValidation.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/BankingWithdrawalValidation.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/BankingWithdrawalValidation.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/BankingWithdrawalValidation.dll
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/refint/BankingWithdrawalValidation.dll
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/BankingWithdrawalValidation.pdb
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/BankingWithdrawalValidation.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/M1Prac/BankingWithdrawalValidation/obj/Debug/net10.0/ref/BankingWithdrawalValidation.dll

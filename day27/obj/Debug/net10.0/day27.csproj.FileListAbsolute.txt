@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/day27/bin/Debug/net10.0/day27
+/Users/sukruthapochammala/c#/day27/bin/Debug/net10.0/day27.deps.json
+/Users/sukruthapochammala/c#/day27/bin/Debug/net10.0/day27.runtimeconfig.json
+/Users/sukruthapochammala/c#/day27/bin/Debug/net10.0/day27.dll
+/Users/sukruthapochammala/c#/day27/bin/Debug/net10.0/day27.pdb
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/day27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/day27.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/day27.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/day27.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/day27.dll
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/refint/day27.dll
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/day27.pdb
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/day27.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/day27/obj/Debug/net10.0/ref/day27.dll

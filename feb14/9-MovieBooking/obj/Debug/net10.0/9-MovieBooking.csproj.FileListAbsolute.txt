@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/bin/Debug/net10.0/9-MovieBooking
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/bin/Debug/net10.0/9-MovieBooking.deps.json
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/bin/Debug/net10.0/9-MovieBooking.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/bin/Debug/net10.0/9-MovieBooking.dll
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/bin/Debug/net10.0/9-MovieBooking.pdb
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/9-MovieBooking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/9-MovieBooking.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/9-MovieBooking.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/9-MovieBooking.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/9-MovieBooking.dll
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/refint/9-MovieBooking.dll
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/9-MovieBooking.pdb
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/9-MovieBooking.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/9-MovieBooking/obj/Debug/net10.0/ref/9-MovieBooking.dll

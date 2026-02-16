@@ -1,0 +1,14 @@
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\bin\Debug\net10.0\Q2_Rate_Limiter.exe
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\bin\Debug\net10.0\Q2_Rate_Limiter.deps.json
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\bin\Debug\net10.0\Q2_Rate_Limiter.runtimeconfig.json
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\bin\Debug\net10.0\Q2_Rate_Limiter.dll
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\bin\Debug\net10.0\Q2_Rate_Limiter.pdb
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\Q2_Rate_Limiter.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\Q2_Rate_Limiter.AssemblyInfoInputs.cache
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\Q2_Rate_Limiter.AssemblyInfo.cs
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\Q2_Rate_Limiter.csproj.CoreCompileInputs.cache
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\Q2_Rate_Limiter.dll
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\refint\Q2_Rate_Limiter.dll
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\Q2_Rate_Limiter.pdb
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\Q2_Rate_Limiter.genruntimeconfig.cache
+C:\.net\checking\dotnet\07-02\Q2_Rate_Limiter\obj\Debug\net10.0\ref\Q2_Rate_Limiter.dll

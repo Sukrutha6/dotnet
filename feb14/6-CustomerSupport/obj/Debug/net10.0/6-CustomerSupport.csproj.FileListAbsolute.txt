@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/bin/Debug/net10.0/6-CustomerSupport
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/bin/Debug/net10.0/6-CustomerSupport.deps.json
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/bin/Debug/net10.0/6-CustomerSupport.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/bin/Debug/net10.0/6-CustomerSupport.dll
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/bin/Debug/net10.0/6-CustomerSupport.pdb
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/6-CustomerSupport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/6-CustomerSupport.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/6-CustomerSupport.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/6-CustomerSupport.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/6-CustomerSupport.dll
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/refint/6-CustomerSupport.dll
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/6-CustomerSupport.pdb
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/6-CustomerSupport.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/6-CustomerSupport/obj/Debug/net10.0/ref/6-CustomerSupport.dll

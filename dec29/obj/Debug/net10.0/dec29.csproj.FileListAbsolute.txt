@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/dec29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/dec29.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/dec29.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/dec29.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/dec29/bin/Debug/net10.0/dec29
+/Users/sukruthapochammala/c#/dec29/bin/Debug/net10.0/dec29.deps.json
+/Users/sukruthapochammala/c#/dec29/bin/Debug/net10.0/dec29.runtimeconfig.json
+/Users/sukruthapochammala/c#/dec29/bin/Debug/net10.0/dec29.dll
+/Users/sukruthapochammala/c#/dec29/bin/Debug/net10.0/dec29.pdb
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/dec29.dll
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/refint/dec29.dll
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/dec29.pdb
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/dec29.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/dec29/obj/Debug/net10.0/ref/dec29.dll

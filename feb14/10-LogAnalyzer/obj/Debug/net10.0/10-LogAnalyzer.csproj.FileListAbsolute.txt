@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/bin/Debug/net10.0/10-LogAnalyzer
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/bin/Debug/net10.0/10-LogAnalyzer.deps.json
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/bin/Debug/net10.0/10-LogAnalyzer.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/bin/Debug/net10.0/10-LogAnalyzer.dll
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/bin/Debug/net10.0/10-LogAnalyzer.pdb
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/10-LogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/10-LogAnalyzer.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/10-LogAnalyzer.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/10-LogAnalyzer.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/10-LogAnalyzer.dll
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/refint/10-LogAnalyzer.dll
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/10-LogAnalyzer.pdb
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/10-LogAnalyzer.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/10-LogAnalyzer/obj/Debug/net10.0/ref/10-LogAnalyzer.dll

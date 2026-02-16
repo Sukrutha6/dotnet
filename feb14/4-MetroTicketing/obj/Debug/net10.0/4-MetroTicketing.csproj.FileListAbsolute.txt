@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/bin/Debug/net10.0/4-MetroTicketing
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/bin/Debug/net10.0/4-MetroTicketing.deps.json
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/bin/Debug/net10.0/4-MetroTicketing.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/bin/Debug/net10.0/4-MetroTicketing.dll
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/bin/Debug/net10.0/4-MetroTicketing.pdb
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/4-MetroTicketing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/4-MetroTicketing.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/4-MetroTicketing.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/4-MetroTicketing.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/4-MetroTicketing.dll
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/refint/4-MetroTicketing.dll
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/4-MetroTicketing.pdb
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/4-MetroTicketing.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb14/4-MetroTicketing/obj/Debug/net10.0/ref/4-MetroTicketing.dll

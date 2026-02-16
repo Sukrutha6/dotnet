@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/bin/Debug/net10.0/PolymorphismPrac
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/bin/Debug/net10.0/PolymorphismPrac.deps.json
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/bin/Debug/net10.0/PolymorphismPrac.runtimeconfig.json
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/bin/Debug/net10.0/PolymorphismPrac.dll
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/bin/Debug/net10.0/PolymorphismPrac.pdb
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/PolymorphismPrac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/PolymorphismPrac.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/PolymorphismPrac.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/PolymorphismPrac.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/PolymorphismPrac.dll
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/refint/PolymorphismPrac.dll
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/PolymorphismPrac.pdb
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/PolymorphismPrac.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/feb12/PolymorphismPrac/obj/Debug/net10.0/ref/PolymorphismPrac.dll

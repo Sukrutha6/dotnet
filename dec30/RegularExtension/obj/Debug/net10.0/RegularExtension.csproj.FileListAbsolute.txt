@@ -1,0 +1,14 @@
+/Users/sukruthapochammala/c#/dec30/RegularExtension/bin/Debug/net10.0/RegularExtension
+/Users/sukruthapochammala/c#/dec30/RegularExtension/bin/Debug/net10.0/RegularExtension.deps.json
+/Users/sukruthapochammala/c#/dec30/RegularExtension/bin/Debug/net10.0/RegularExtension.runtimeconfig.json
+/Users/sukruthapochammala/c#/dec30/RegularExtension/bin/Debug/net10.0/RegularExtension.dll
+/Users/sukruthapochammala/c#/dec30/RegularExtension/bin/Debug/net10.0/RegularExtension.pdb
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/RegularExtension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/RegularExtension.AssemblyInfoInputs.cache
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/RegularExtension.AssemblyInfo.cs
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/RegularExtension.csproj.CoreCompileInputs.cache
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/RegularExtension.dll
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/refint/RegularExtension.dll
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/RegularExtension.pdb
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/RegularExtension.genruntimeconfig.cache
+/Users/sukruthapochammala/c#/dec30/RegularExtension/obj/Debug/net10.0/ref/RegularExtension.dll
