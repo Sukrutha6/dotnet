@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Department Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        .container {
+            display: flex;
+            gap: 40px;
+        }
+        .box {
+            background: rgb(255, 255, 255);
+            padding: 20px;
+            border-radius: 10px;
+            width: 45%;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        input, select, button {
+            padding: 8px;
+            margin: 5px 0;
+            width: 100%;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 5px;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Employee & Department Management</h2>
+
+<div class="container">
+
+    <!-- Department Section -->
+    <div class="box">
+        <h3>Add Department</h3>
+        <input type="text" id="deptName" placeholder="Enter Department Name">
+        <button onclick="addDepartment()">Add Department</button>
+
+        <h3>Departments</h3>
+        <ul id="departmentList"></ul>
+    </div>
+
+    <!-- Employee Section -->
+    <div class="box">
+        <h3>Add Employee</h3>
+        <input type="text" id="empName" placeholder="Enter Employee Name">
+        <select id="deptSelect">
+            <option value="">Select Department</option>
+        </select>
+        <button onclick="addEmployee()">Add Employee</button>
+
+        <h3>Filter by Department</h3>
+        <select id="filterDept" onchange="filterEmployees()">
+            <option value="">All Departments</option>
+        </select>
+
+        <h3>Employees</h3>
+        <ul id="employeeList"></ul>
+    </div>
+
+</div>
+
+<script>
+    let departments = [];
+    let employees = [];
+
+    function addDepartment() {
+        let deptInput = document.getElementById("deptName");
+        let deptName = deptInput.value.trim();
+
+        if (deptName === "") {
+            alert("Please enter department name");
+            return;
+        }
+
+        departments.push(deptName);
+        deptInput.value = "";
+        updateDepartmentUI();
+    }
+
+    function updateDepartmentUI() {
+        let deptList = document.getElementById("departmentList");
+        let deptSelect = document.getElementById("deptSelect");
+        let filterDept = document.getElementById("filterDept");
+
+        deptList.innerHTML = "";
+        deptSelect.innerHTML = "<option value=''>Select Department</option>";
+        filterDept.innerHTML = "<option value=''>All Departments</option>";
+
+        departments.forEach(dept => {
+            deptList.innerHTML += `<li>${dept}</li>`;
+            deptSelect.innerHTML += `<option value="${dept}">${dept}</option>`;
+            filterDept.innerHTML += `<option value="${dept}">${dept}</option>`;
+        });
+    }
+
+    function addEmployee() {
+        let empName = document.getElementById("empName").value.trim();
+        let dept = document.getElementById("deptSelect").value;
+
+        if (empName === "" || dept === "") {
+            alert("Please fill all fields");
+            return;
+        }
+
+        employees.push({ name: empName, department: dept });
+        document.getElementById("empName").value = "";
+        displayEmployees(employees);
+    }
+
+    function displayEmployees(empList) {
+        let empUl = document.getElementById("employeeList");
+        empUl.innerHTML = "";
+
+        empList.forEach(emp => {
+            empUl.innerHTML += `<li>${emp.name} - ${emp.department}</li>`;
+        });
+    }
+
+    function filterEmployees() {
+        let selectedDept = document.getElementById("filterDept").value;
+
+        if (selectedDept === "") {
+            displayEmployees(employees);
+        } else {
+            let filtered = employees.filter(emp => emp.department === selectedDept);
+            displayEmployees(filtered);
+        }
+    }
+</script>
+
+</body>
+</html>

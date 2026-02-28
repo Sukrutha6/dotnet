@@ -1,4 +1,4 @@
-using SmartBankingSystem.Exceptions;
+using System;
 
 namespace SmartBankingSystem.Models
 {
